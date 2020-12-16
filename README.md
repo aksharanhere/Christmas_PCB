@@ -11,7 +11,7 @@ Merry Christmas!!
 
   
 # PCB Description
->The following design is made under the idea of creating a unique christmas decorative board. This can be used a creative christmas wall art .In this case ,i have designed a Board with "Rein deer (Prancer and vixen)"  theme :)
+>The following design is made under the idea of creating a unique christmas decorative board. This can be used as a creative christmas wall art .In this case ,i have designed a Board with "Rein deer (Prancer and vixen)"  theme :)
 # Designed using EasyEDA, Can Order from JLCPCB
 > [EasyEDA Project Link Here](https://easyeda.com/aksharan.g/christmas)
 
@@ -31,7 +31,7 @@ JLCPCB.com is a well known PCB manufacaturer wherein we can order quality PCBs a
 </p>
 
 # Design
-> This is a Santa's Rein deer themed Esp8266 Board
+> This is a Santa's Rein deer themed Creative Board
 
 <p align="center">
 <img align="center" src="https://github.com/aksharanhere/Christmas_PCB/blob/main/christPcb.png">
